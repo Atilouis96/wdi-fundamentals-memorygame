@@ -6,7 +6,8 @@ const cardsInPlay[cards.push('cardOne')cards.push("king")];
 var cardOne ("queen");
 var cardTwo ("king");
 if (length cardsInPlay === 2) {
-} else alert("You found a match!") {
-
+ else alert("You found a match!") {
 }
-
+function flipcard(cardId) {
+consol.log("User flipped" + cards[cardId])
+}
